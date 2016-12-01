@@ -52,4 +52,14 @@ Skype: mariana.mioto
 * Period: August/2011 - December/2012
 * Position: Software Architect and Web Developer
 * Technologies: Python, Joomla
-* Project: Responsible for architecting the website, implementing and maintaining the Portal of the Gerontology Network of the Ribeirão Preto College of Nursing - USP.
+* Project: Responsible for architecting the website, implementing the Portal.
+
+
+## Technical Skills:
+
+  * Operational System: Posix, OS X and Windows.
+  * Programming Languages: **Python**, PHP, Bash, SQL, C/C++ and Perl.
+  * DBMS: PostgreSQL, SQLite and MySQL.
+  * Relevant Keywords: **Django**, Git.
+
+<div class="page-break"></div>
