@@ -3,7 +3,7 @@
 
 Brazilian, Born on 1988-10-26  
 Living in São Leopoldo \- RS, Brazil  
-[mariana@gmail.com](mailto:seocam@seocam.com)  
+[mariana.mioto@gmail.com](mailto:seocam@seocam.com)  
 Phone: +55 (16) 99778 3633  
 Skype: mariana.mioto
 
