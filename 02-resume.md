@@ -1,10 +1,3 @@
----
-layout: page
-title: Resume
-permalink: /resume/
-modified: December 01, 2016 - 10:56
----
-
 ## Mariana Araujo Mioto
 
 
@@ -76,7 +69,7 @@ Skype: mariana.mioto
     * Inspire, recruit and support new contributors
 
 ### Community Python
-
+  * [Lead Member of WomentechMakers - RP](http://wtmribeiraopreto.com.br/)
   * [Member of Pyladies Brasil](http://brasil.pyladies.com/)
   * [Member Grupy - RP](https://grupyrp.slack.com)
 
@@ -93,27 +86,29 @@ Skype: mariana.mioto
 
 ## Speeches Given:
 
-### Workshop: 
+### Maker Party: Learn and Teach the Web no CEU de Sertãozinho
 <div class="no-print"></div>
 
   * *Invited Speaker*
-  * Event: Campus Party
-  * Date/Local: 
-
+  * Event: Maker Party - Sertãozinho
+  * Date/Local: August/2015 - Sertãozinho - SP
+  * URL: <http://culturadigital.br/labceus/2015/08/14/mozilla-maker-party-em-sertaozinho/>
+  
 ### Workshop: SUMO: Support Mozilla - Hands on!
 <div class="no-print"></div>
 
   * *Invited Speaker*
-  * Event: Campus Party
-  * Date/Local: 
-
-### Womoz Mozilla
+  * Event: Campus Party 8
+  * Date/Local: February/2015 - São Paulo - SP
+  * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
+  
+### Talk: Womoz Mozilla
 <div class="no-print"></div>
 
   * *Invited Speaker*
-  * Event: Campus Party
-  * Date/Local: 
-
+  * Event: Campus Party 8
+  * Date/Local: February/2015 - São Paulo - SP
+  * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
 
 ## Links:
 <div class="no-print"></div>
@@ -127,4 +122,3 @@ Skype: mariana.mioto
 
 * * *
 
-Updated: {{ page.modified }}
