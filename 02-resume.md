@@ -63,3 +63,68 @@ Skype: mariana.mioto
   * Relevant Keywords: **Django**, Git.
 
 <div class="page-break"></div>
+
+## Other Activities:
+
+
+### [Mozillian Volunteer](https://mozillians.org/pt-BR/)
+
+  * Period: September/2011 (present)
+  * Responsibilities:
+    * Promote the Mozilla Project and mission
+    * Build on and support existing/future local community efforts and programs
+    * Inspire, recruit and support new contributors
+
+### Community Python
+
+  * [Member of Pyladies Brasil](http://brasil.pyladies.com/)
+  * [Member Grupy - RP](https://grupyrp.slack.com)
+
+* * *
+
+## Languages:
+
+  * **Portuguese:** Native
+  * **English:** Advanced
+  * **Spanish:** Intermediate
+
+* * *
+<div class="no-print"></div>
+
+## Speeches Given:
+
+### Workshop: 
+<div class="no-print"></div>
+
+  * *Invited Speaker*
+  * Event: Campus Party
+  * Date/Local: 
+
+### Workshop: SUMO: Support Mozilla - Hands on!
+<div class="no-print"></div>
+
+  * *Invited Speaker*
+  * Event: Campus Party
+  * Date/Local: 
+
+### Womoz Mozilla
+<div class="no-print"></div>
+
+  * *Invited Speaker*
+  * Event: Campus Party
+  * Date/Local: 
+
+
+## Links:
+<div class="no-print"></div>
+
+### Relevant profiles
+<div class="no-print"></div>
+
+  * [Academic CV](http://lattes.cnpq.br/6078674903287443)
+  * [GitHub - Personal](https://github.com/marianamioto)
+  * [Linkedin](https://br.linkedin.com/in/mariana-mioto)
+
+* * *
+
+Updated: {{ page.modified }}
