@@ -3,7 +3,7 @@
 
 Brazilian, Born on 1988-10-26  
 Living in São Leopoldo \- RS, Brazil  
-[mariana.mioto@gmail.com](mailto:seocam@seocam.com)  
+[mariana.mioto@gmail.com](mailto:mariana.mioto@gmail.com)  
 Phone: +55 (16) 99778 3633  
 Skype: mariana.mioto
 
@@ -51,9 +51,9 @@ Skype: mariana.mioto
 ## Technical Skills:
 
   * Operational System: Posix, OS X and Windows.
-  * Programming Languages: **Python**, PHP, Bash, SQL, C/C++ and Perl.
+  * Programming Languages: **Python**, Bash, SQL, C/C++ and Perl.
   * DBMS: PostgreSQL, SQLite and MySQL.
-  * Relevant Keywords: **Django**, Git.
+  * Relevant Keywords: **Image Processing**, **Machine Learning**, **Data Science**, Education, Django, Git.
 
 <div class="page-break"></div>
 
@@ -79,7 +79,7 @@ Skype: mariana.mioto
 
   * **Portuguese:** Native
   * **English:** Advanced
-  * **Spanish:** Intermediate
+  * **Spanish:** Basic
 
 * * *
 <div class="no-print"></div>
@@ -89,15 +89,23 @@ Skype: mariana.mioto
 ### Maker Party: Learn and Teach the Web no CEU de Sertãozinho
 <div class="no-print"></div>
 
-  * *Invited Speaker*
+  * *Speaker*
   * Event: Maker Party - Sertãozinho
   * Date/Local: August/2015 - Sertãozinho - SP
   * URL: <http://culturadigital.br/labceus/2015/08/14/mozilla-maker-party-em-sertaozinho/>
   
+
+### Talk: SUMO Mozilla
+<div class="no-print"></div>
+  
+  * *Invited Speaker*
+  * Event: FISL 16
+  * Date/Local: July/2015 - Porto Alegre - RS
+
+
 ### Workshop: SUMO: Support Mozilla - Hands on!
 <div class="no-print"></div>
 
-  * *Invited Speaker*
   * Event: Campus Party 8
   * Date/Local: February/2015 - São Paulo - SP
   * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
@@ -109,6 +117,13 @@ Skype: mariana.mioto
   * Event: Campus Party 8
   * Date/Local: February/2015 - São Paulo - SP
   * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
+
+### Talk: SUMO Mozilla
+<div class="no-print"></div>
+  
+  * *Invited Speaker*
+  * Event: FISL 14
+  * Date/Local: July/2013 - Porto Alegre - RS
 
 ## Links:
 <div class="no-print"></div>
