@@ -52,7 +52,7 @@ Skype: mariana.mioto
 * Period: August/2011 - December/2012
 * Position: Software Architect and Web Developer
 * Technologies: Python, Joomla
-* Project: Responsible for architecting the website, implementing the Portal.
+* Project: Responsible for website architecture, implementing the Portal.
 
 
 ## Technical Skills:
