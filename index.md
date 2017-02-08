@@ -4,8 +4,7 @@
 Brazilian, Born on 1988-10-26  
 Living in São Leopoldo \- RS, Brazil  
 [mariana.mioto@gmail.com](mailto:mariana.mioto@gmail.com)  
-Phone: +55 (16) 99778 3633 and  +55 (51) 982070190
-
+Phone: +55 (16) 99778 3633  
 Skype: mariana.mioto
 
 * * *
@@ -15,7 +14,7 @@ Skype: mariana.mioto
 ### Pursuing graduate-level in Science - Bioengineering
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos and Ribeirão Preto
   * Research area: Image Science and Computational Imaging 
-  * Theme:Studies for segmentation and extraction of characteristics in HRCT thorax images of patients with Interstitial Pulmonary  Disease (IPD)
+  * Theme: " Studies for segmentation and extraction of characteristics in HRCT thorax images of patients with Interstitial Pulmonary  Disease (IPD). "
   * Estimate Conclusion: April 2017
 
 
@@ -27,6 +26,13 @@ Skype: mariana.mioto
 * * *
 
 ## Work Experience:
+
+### PixForce Tecnologia LTDA
+
+* Period: January/2017 - Current.
+* Position: Machine Learning Engineer and Software Engineer
+* Technologies: Python, Matlab languages
+* Responsibilities: Development of algorithms to perform images processing using Python; Research and implement solutions to analyze the data obtained from the images, to generate added value using machine learning.
 
 ### Hospital das Clínicas - HC: Faculdade de Medicina de Ribeirão Preto - FMRP, USP - Ribeirão Preto, Brazil
 
@@ -46,16 +52,15 @@ Skype: mariana.mioto
 * Period: August/2011 - December/2012
 * Position: Software Architect and Web Developer
 * Technologies: Python, Joomla
-* Project: Responsible for architecting the website, implementing the Portal.
+* Project: Responsible for website architecture, implementing the Portal.
 
 
 ## Technical Skills:
 
   * Operational System: Posix, OS X and Windows.
-  * Programming Languages: **Python**, Bash, SQL, C/C++, Perl and ObjC.
+  * Programming Languages: **Python**, Bash, SQL, C/C++ and Perl.
   * DBMS: PostgreSQL, SQLite and MySQL.
-  * Relevant Keywords: **Image Processing**, **Machine Learning**, **Data Science**, Education, Django, PyObjC, Git, Xcode, Tornado Web Server.
-
+  * Relevant Keywords: **Image Processing**, **Machine Learning**, **Data Science**, Education, Django, Git.
 
 <div class="page-break"></div>
 
@@ -88,6 +93,13 @@ Skype: mariana.mioto
 
 ## Speeches Given:
 
+### Workshop: Django Girls
+<div class="no-print"></div>
+
+  * *Coach*
+  * Date/Local: January/2017 - Curitiba - PR
+  * URL: <https://www.flickr.com/photos/turicas/sets/72157675892144803>
+
 ### Maker Party: Learn and Teach the Web no CEU de Sertãozinho
 <div class="no-print"></div>
 
@@ -108,7 +120,6 @@ Skype: mariana.mioto
 ### Workshop: SUMO: Support Mozilla - Hands on!
 <div class="no-print"></div>
 
-  * *Speaker*
   * Event: Campus Party 8
   * Date/Local: February/2015 - São Paulo - SP
   * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
@@ -116,7 +127,7 @@ Skype: mariana.mioto
 ### Talk: Womoz Mozilla
 <div class="no-print"></div>
 
-  * *Speaker*
+  * *Invited Speaker*
   * Event: Campus Party 8
   * Date/Local: February/2015 - São Paulo - SP
   * URL: <https://blog.mozilla.org/sumo/2015/02/26/campus-party-brazil-8-a-guest-report-by-mariana/>
@@ -124,7 +135,7 @@ Skype: mariana.mioto
 ### Talk: SUMO Mozilla
 <div class="no-print"></div>
   
-  * *Speaker*
+  * *Invited Speaker*
   * Event: FISL 14
   * Date/Local: July/2013 - Porto Alegre - RS
 
