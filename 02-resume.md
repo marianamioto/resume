@@ -27,6 +27,13 @@ Skype: mariana.mioto
 
 ## Work Experience:
 
+### PixForce Tecnologia LTDA
+
+* Period: January/2017 - Current.
+* Position: Machine Learning Engineer and Software Engineer
+* Technologies: Python, Matlab languages
+* Responsibilities: Development of algorithms to perform images processing using Python; Research and implement solutions to analyze the data obtained from the images, to generate added value using machine learning.
+
 ### Hospital das Clínicas - HC: Faculdade de Medicina de Ribeirão Preto - FMRP, USP - Ribeirão Preto, Brazil
 
 * Period: February/2015 - December/2016
@@ -85,6 +92,13 @@ Skype: mariana.mioto
 <div class="no-print"></div>
 
 ## Speeches Given:
+
+### Workshop: Django Girls
+<div class="no-print"></div>
+
+  * *Coach*
+  * Date/Local: January/2017 - Curitiba - PR
+  * URL: <https://www.flickr.com/photos/turicas/sets/72157675892144803>
 
 ### Maker Party: Learn and Teach the Web no CEU de Sertãozinho
 <div class="no-print"></div>
