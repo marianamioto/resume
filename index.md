@@ -2,9 +2,9 @@
 
 
 Brazilian, Born on 1988-10-26  
-Living in São Leopoldo \- RS, Brazil  
+Living in Porto Alegre \- RS, Brazil  
 [mariana.mioto@gmail.com](mailto:mariana.mioto@gmail.com)  
-Phone: +55 (16) 99778 3633  
+Phone: +55 (16) 99778 3633, +55 (51) 98207 0190
 Skype: mariana.mioto
 
 * * *
@@ -58,8 +58,8 @@ Skype: mariana.mioto
 ## Technical Skills:
 
   * Operational System: Posix, OS X and Windows.
-  * Programming Languages: **Python**, Bash, SQL, C/C++ and Perl.
-  * DBMS: PostgreSQL, SQLite and MySQL.
+  * Programming Languages: **Python**, SQL, C/C++ and Perl.
+  * DBMS: MySQL.
   * Relevant Keywords: **Image Processing**, **Machine Learning**, **Data Science**, Education, Django, Git.
 
 <div class="page-break"></div>
@@ -79,6 +79,7 @@ Skype: mariana.mioto
   * [Lead Member of WomentechMakers - RP](http://wtmribeiraopreto.com.br/)
   * [Member of Pyladies Brasil](http://brasil.pyladies.com/)
   * [Member Grupy - RP](https://grupyrp.slack.com)
+  * [Member Pytchê - RS]
 
 * * *
 
@@ -92,6 +93,41 @@ Skype: mariana.mioto
 <div class="no-print"></div>
 
 ## Speeches Given:
+
+### Talk: Introdução ao Python
+<div class="no-print"></div>
+  
+  * *Speaker with Ana Schwendler*
+  * Event: Django Girls Porto Alegre
+  * Date/Local: March/2017 - Porto Alegre - RS
+
+### Workshop: Django Girls
+<div class="no-print"></div>
+
+  * *Coach and Organizer*
+  * Date/Local: March/2017 - Porto Alegre - RS
+  * URL:  <https://www.flickr.com/photos/djangogirls/albums/72157678169230424>
+
+### Workshop: Rails Girls
+<div class="no-print"></div>
+
+  * *Coach*
+  * Date/Local: March/2017 - Novo Hamburgo - RS
+  * URL:  <http://railsgirls.com/novohamburgo.html>
+
+### Talk: Mulheres na Tecnologia
+<div class="no-print"></div>
+  
+  * *Speaker*
+  * Event: Womentech Makers - Mês da Mulher
+  * Date/Local: March/2017 - Ribeirão Preto - SP
+
+### Workshop: Rails Girls
+<div class="no-print"></div>
+
+  * *Coach*
+  * Date/Local: February/2017 - Pelotas - RS
+  * URL:  <http://railsgirls.com/pelotas.html>
 
 ### Workshop: Django Girls
 <div class="no-print"></div>
