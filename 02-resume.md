@@ -4,7 +4,7 @@
 Brazilian, Born on 1988-10-26  
 Living in Porto Alegre \- RS, Brazil  
 [mariana.mioto@gmail.com](mailto:mariana.mioto@gmail.com)  
-Phone: +55 (16) 99778 3633  
+Phone: +55 (16) 99778 3633, +55 (51) 98207 0190
 Skype: mariana.mioto
 
 * * *
