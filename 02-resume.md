@@ -2,9 +2,9 @@
 
 
 Brazilian, Born on 1988-10-26  
-Living in Porto Alegre \- RS, Brazil  
+Living in Ribeirão Preto \- SP, Brazil  
 [mariana.mioto@gmail.com](mailto:mariana.mioto@gmail.com)  
-Phone: +55 (16) 99778 3633, +55 (51) 98207 0190
+Phone: +55 (16) 99778 3633
 Skype: mariana.mioto
 
 * * *
@@ -29,7 +29,7 @@ Skype: mariana.mioto
 
 ### PixForce Tecnologia LTDA
 
-* Period: January/2017 - Current.
+* Period: January/2017 - August/2017
 * Position: Machine Learning Engineer and Software Engineer
 * Technologies: Python, Matlab languages
 * Responsibilities: Development of algorithms to perform images processing using Python; Research and implement solutions to analyze the data obtained from the images, to generate added value using machine learning.
