@@ -29,7 +29,7 @@ Skype: mariana.mioto
 
 ### PixForce Tecnologia LTDA
 
-* Period: January/2017 - August/2017
+* Period: January/2017 - July/2017
 * Position: Machine Learning Engineer and Software Engineer
 * Technologies: Python, Matlab languages
 * Responsibilities: Development of algorithms to perform images processing using Python; Research and implement solutions to analyze the data obtained from the images, to generate added value using machine learning.
