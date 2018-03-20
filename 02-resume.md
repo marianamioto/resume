@@ -15,7 +15,7 @@ Skype: mariana.mioto
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos and Ribeirão Preto
   * Research area: Image Science and Computational Imaging 
   * Theme: " Studies for segmentation and extraction of characteristics in HRCT thorax images of patients with Interstitial Pulmonary  Disease (IPD). "
-  * Estimate Conclusion: April 2017
+  * Estimate Conclusion: July 2018
 
 
 ### B.Sc. in Biomedical Informatics
