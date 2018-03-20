@@ -2,9 +2,9 @@
 
 
 Brazilian, Born on 1988-10-26  
-Living in Porto Alegre \- RS, Brazil  
+Living in Ribeirão Preto \- SP, Brazil  
 [mariana.mioto@gmail.com](mailto:mariana.mioto@gmail.com)  
-Phone: +55 (16) 99778 3633, +55 (51) 98207 0190
+Phone: +55 (16) 99778 3633
 Skype: mariana.mioto
 
 * * *
@@ -15,7 +15,7 @@ Skype: mariana.mioto
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos and Ribeirão Preto
   * Research area: Image Science and Computational Imaging 
   * Theme: " Studies for segmentation and extraction of characteristics in HRCT thorax images of patients with Interstitial Pulmonary  Disease (IPD). "
-  * Estimate Conclusion: April 2017
+  * Estimate Conclusion: July 2018
 
 
 ### B.Sc. in Biomedical Informatics
@@ -29,7 +29,7 @@ Skype: mariana.mioto
 
 ### PixForce Tecnologia LTDA
 
-* Period: January/2017 - Current.
+* Period: January/2017 - July/2017
 * Position: Machine Learning Engineer and Software Engineer
 * Technologies: Python, Matlab languages
 * Responsibilities: Development of algorithms to perform images processing using Python; Research and implement solutions to analyze the data obtained from the images, to generate added value using machine learning.
@@ -188,3 +188,4 @@ Skype: mariana.mioto
 * * *
 
 Web Version: https://marianamioto.github.io/resume/
+
