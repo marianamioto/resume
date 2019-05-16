@@ -14,7 +14,7 @@ Phone: +55 (16) 99778 3633
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos and Ribeirão Preto
   * Area de pesquisa: Processamento de dados e imagens médicas. 
   * Tema: " Estudo para segmentação e extração de caracteristicas em CT de Alta Resolução de Torax com Doenças Pulmonares Difusas. "
-  * Incompleto
+  * Qualificado
 
 ### Bacharel em Informática Biomédica
   * Date: July 2014
@@ -27,7 +27,7 @@ Phone: +55 (16) 99778 3633
 ### PixForce Tecnologia LTDA
 
 * Período: January/2017 - July/2017
-* cargo: Machine Learning Engineer
+* Cargo: Machine Learning Engineer
 * Tecnologias: Python, Matlab languages
 * Responsibilidades: Desenvolvimento de algoritmos para processamento de imagens utilizando Python; Pesquisar e implementar 
 soluções para analise dos dados obtidos das imagens usando machine learning.
@@ -85,15 +85,15 @@ Os primeiros resultados, foi apresentado no Congresso Brasileiro de Engenharia B
 
 ## Línguas:
 
-   * ** Português:** Nativo
+   * **Português:** Nativo
    * **Inglês:** Avançado
-   * ** Espanhol:** Básico
+   * **Espanhol:** Básico
 
 * * *
 
 <div class="no-print"></div>
 
-## Discursos dados:
+## Palestras dadas:
 
 ### Talk: Introdução ao Python
 <div class = "no-print"> </ div>
