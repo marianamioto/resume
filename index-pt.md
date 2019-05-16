@@ -26,7 +26,7 @@ Phone: +55 (16) 99778 3633
 
 ### PixForce Tecnologia LTDA
 
-* Período: January/2017 - July/2017
+* Período: Janeiro/2017 - Julho/2017
 * Cargo: Machine Learning Engineer
 * Tecnologias: Python, Matlab languages
 * Responsibilidades: Desenvolvimento de algoritmos para processamento de imagens utilizando Python; Pesquisar e implementar 
