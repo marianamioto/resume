@@ -74,7 +74,7 @@ Skype: mariana.mioto
 ## Languages:
 
   * **Portuguese:** Native
-  * **English:** Basic
+  * **English CEFR:** B2 - independent
   * **Spanish:** Basic
 
 * * *
