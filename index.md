@@ -9,15 +9,6 @@ Skype: mariana.mioto
 
 * * *
 
-## Education:
-
-### Pursuing graduate-level in Science - Bioengineering
-  * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos and Ribeirão Preto
-  * Research area: Image Science and Computational Imaging 
-  * Theme: " Studies for segmentation and extraction of characteristics in HRCT thorax images of patients with Interstitial Pulmonary  Disease (IPD). "
-  * Estimate Conclusion: July 2018
-
-
 ### B.Sc. in Biomedical Informatics
 
   * Date: July 2014
@@ -32,14 +23,14 @@ Skype: mariana.mioto
 * Period: January/2017 - July/2017
 * Position: Machine Learning Engineer and Software Engineer
 * Technologies: Python, Matlab languages
-* Responsibilities: Development of algorithms to perform images processing using Python; Research and implement solutions to analyze the data obtained from the images, to generate added value using machine learning.
+* Responsibilities: Development of algorithms to perform images processing using Python; Research and implement solutions to analyze the data obtained from the images using machine learning.
 
 ### Hospital das Clínicas - HC: Faculdade de Medicina de Ribeirão Preto - FMRP, USP - Ribeirão Preto, Brazil
 
 * Period: February/2015 - December/2016
 * Position: Researcher and developer
 * Technologies: Python, Matlab and R languages
-* Project: Development of algorithms to perform images processing for aid diagnostic tools that make computational quantitative analysis to identify radiological patterns of interstitial lung diseases in HRTC thorax images. The first results, was presented at the Brazilian Congress of Biomedical Engineering in October 2016
+* Project: Development of algorithms to perform images processing for aid diagnostic tools that make computational quantitative analysis to identify radiological patterns of interstitial lung diseases in HRTC thorax images. The first results, was presented at the Brazilian Congress of Biomedical Engineering in October 2016.
 
 ### CIRP - Centro de Informática de Ribeirão Preto - USP 
 
@@ -57,10 +48,9 @@ Skype: mariana.mioto
 
 ## Technical Skills:
 
-  * Operational System: Posix, OS X and Windows.
-  * Programming Languages: **Python**, SQL, C/C++ and Perl.
-  * DBMS: MySQL.
-  * Relevant Keywords: **Image Processing**, **Machine Learning**, **Data Science**, Education, Django, Git.
+  * Operational System: Linux, OS X.
+  * Programming Languages: **Python**.
+  * Relevant Keywords: **Image Processing**, **Machine Learning**, **Data Science**, **Education**.
 
 <div class="page-break"></div>
 
@@ -76,17 +66,15 @@ Skype: mariana.mioto
     * Inspire, recruit and support new contributors
 
 ### Community Python
-  * [Lead Member of WomentechMakers - RP](http://wtmribeiraopreto.com.br/)
   * [Member of Pyladies Brasil](http://brasil.pyladies.com/)
   * [Member Grupy - RP](https://grupyrp.slack.com)
-  * [Member Pytchê - RS]
 
 * * *
 
 ## Languages:
 
   * **Portuguese:** Native
-  * **English:** Advanced
+  * **English:** Basic
   * **Spanish:** Basic
 
 * * *
@@ -175,15 +163,7 @@ Skype: mariana.mioto
   * Event: FISL 14
   * Date/Local: July/2013 - Porto Alegre - RS
 
-## Links:
-<div class="no-print"></div>
 
-### Relevant profiles
-<div class="no-print"></div>
-
-  * [Academic CV](http://lattes.cnpq.br/6078674903287443)
-  * [GitHub - Personal](https://github.com/marianamioto)
-  * [Linkedin](https://br.linkedin.com/in/mariana-mioto)
 
 * * *
 
