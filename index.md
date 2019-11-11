@@ -30,7 +30,7 @@ Skype: mariana.mioto
 * Period: February/2015 - December/2016
 * Position: Researcher and developer
 * Technologies: Python, Matlab and R languages
-* Project: Development of algorithms to perform images processing for aid diagnostic tools that make computational quantitative analysis to identify radiological patterns of interstitial lung diseases in HRTC thorax images. The first results, was presented at the Brazilian Congress of Biomedical Engineering in October 2016.
+* Project: Development of algorithms to perform images processing of aid diagnostic tools.  Computational quantitative analysis to identify radiological patterns of interstitial lung diseases in HRTC thorax images. The first results was presented at the Brazilian Congress of Biomedical Engineering in October 2016.
 
 ### CIRP - Centro de Informática de Ribeirão Preto - USP 
 
