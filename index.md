@@ -5,7 +5,6 @@ Brazilian, Born on 1988-10-26
 Living in Ribeirão Preto \- SP, Brazil  
 [mariana.mioto@gmail.com](mailto:mariana.mioto@gmail.com)  
 Phone: +55 (16) 99778 3633
-Skype: mariana.mioto
 
 * * *
 
